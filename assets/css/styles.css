@@ -522,9 +522,9 @@ iframe {
   color: #fb866a;
 }
 
-div{
+.about .latest .skills .info .education .languages .experience .section-inner{
 
-  border-radius: 10%;
+  background-color: black;
 }
 
 
