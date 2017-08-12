@@ -180,7 +180,7 @@ iframe {
 .section .section-inner {
   background: #fff;
   padding: 30px;
-  border-radius: 4%;
+  border-radius: 10px;
 }
 .section .heading {
   margin-top: 0;
@@ -525,7 +525,7 @@ iframe {
 
 .about .latest .skills .info .education .languages .experience .section-inner{
 
-  border-radius: 4%;
+  border-radius: 10px;
 }
 
 
