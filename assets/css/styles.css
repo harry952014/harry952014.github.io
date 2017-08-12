@@ -522,7 +522,7 @@ iframe {
   color: #fb866a;
 }
 
-.about .latest .skills .info .education .languages .experience .section-inner{
+div{
 
   border-radius: 10%;
 }
