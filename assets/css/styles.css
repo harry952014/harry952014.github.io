@@ -521,6 +521,13 @@ iframe {
 .footer .fa-heart {
   color: #fb866a;
 }
+
+.about .latest .skills .info .education .languages .experience{
+
+  border-radius: 4%;
+}
+
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header {
